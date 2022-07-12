@@ -1,0 +1,8 @@
+.formContainer{
+    display :flex;
+    flex-direction: column;
+    background: yellow;
+    row-gap: 20px;
+    height: 100vh;
+    width: 500px;
+}
