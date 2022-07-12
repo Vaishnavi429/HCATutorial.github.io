@@ -11,6 +11,7 @@ export default function Arrow() {
       Email:'',
       Age:''
      })
+     
 
 
   const HandleChange = (name, value) => {
